@@ -52,8 +52,4 @@ Save and exit.
 
 ---
 
-## 2️⃣ Create LICENSE file (matches kernel GPL)
-
-```bash
-nano LICENSE
 
